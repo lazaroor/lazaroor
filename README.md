@@ -2,9 +2,9 @@
 
 - 🔭 Estudante do curso de Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/) 🚀
 - 🌱 Estudando React
-- 😍 Entusiasta de IoT estudando C++
+- 📜 Estudando C++ para fazer meu quarto inteligente com meu Arduino
 - 📜 Cursei 3 semestres de Ciência da computação onde me apaixonei mais ainda por tecnologia
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 ##
 
