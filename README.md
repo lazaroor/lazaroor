@@ -4,7 +4,6 @@
 - 🌱 Estudando atualmente Docker, SQL e Node
 - 📜 Atualmente formado em Front-end pela Trybe com foco na linguagem React
 - 📜 Cursei 3 semestres de Ciência da computação onde me apaixonei mais ainda por tecnologia
-- 😄 Pronomes: ele/dele
 
 ##
 
