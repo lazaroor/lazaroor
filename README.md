@@ -3,8 +3,7 @@
 - 🔭 Estudante do curso de Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/) 🚀
 - 🌱 Estudando atualmente Docker, SQL e Node
 - 📜 Atualmente formado em Front-end pela Trybe com foco na linguagem React
-- 📜 Cursei 3 semestres de Ciência da computação onde me apaixonei mais ainda por tecnologia
-
+- 📜 Formado em análise e desenvolvimento de sistemas em 2023
 ##
 
 <div align="center">
