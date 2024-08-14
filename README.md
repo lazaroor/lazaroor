@@ -1,9 +1,8 @@
-## Oii, meu nome é Lázaro Ramos Andriola!
+## Oiii, meu nome é Lázaro Ramos Andriola!
 
-- 🔭 Estudante do curso de Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/) 🚀
-- 🌱 Estudando atualmente Docker, SQL e Node
-- 📜 Atualmente formado em Front-end pela Trybe com foco na linguagem React
+- 📜 Atualmente no curso de Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/) 🚀
 - 📜 Formado em análise e desenvolvimento de sistemas em 2023
+- 📜 Com experiência na empresa LUZ Soluções Financeiras utilizando ferramentas como Framework .NET, RabbitMQ, Oracle SQL, Angular entre outras.
 ##
 
 <div align="center">
